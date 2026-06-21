@@ -1,0 +1,17 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+lambda_function.zip
+
+__pycache__/
+*.pyc
+
+.vscode/
+
+.env
+
+*.log
+
+Thumbs.db
